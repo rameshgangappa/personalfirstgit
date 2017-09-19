@@ -3,6 +3,7 @@
 
 	<classes>
 		<class name="com.wd.ohrm1.test" />
+		
 	</classes>
 </test>
 </suite>
