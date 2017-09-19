@@ -1,0 +1,8 @@
+<suite name="demo" >
+<test name = "smoke">
+
+	<classes>
+		<class name="com.wd.ohrm1.ohrmaddempoyee2" />
+			</classes>
+</test>
+</suite>
