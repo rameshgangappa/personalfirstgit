@@ -9,7 +9,7 @@ public class test {
 	@Test
 public void test1() {
 	System.out.println("this is begginingof test");
-	
+	System.out.println("");
 }
 
 	@Test(dependsOnMethods="test1")
